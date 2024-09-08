@@ -251,3 +251,5 @@ AI 제반 분야의 넓은 지식과 최소 1개 분야의 깊은 이해를 의�
 Introduction:
 
 medium.com](https://medium.com/@mohamedalihabib7/advice-on-building-a-machine-learning-career-and-reading-research-papers-by-prof-andrew-ng-f90ac99a0182)
+
+a.
